@@ -1,11 +1,11 @@
 1. На локальном репозитории сделать ветки для:
-- Postman
-- Jmeter
-- CheckLists
-- Bag Reports
-- SQL
-- Charles
-- Mobile testing
+- Postman - git checkout -b Postman
+- Jmeter - git checkout -b Jmeter
+- CheckLists - - git checkout -b CheckLists
+- Bag Reports - - git checkout -b Bag_Repots
+- SQL - - git checkout -b SQL
+- Charles - - git checkout -b Charles
+- Mobile testing - - git checkout -b Mobile_Testing
 
 2. Запушить все ветки на внешний репозиторий - git push origin --all
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - touch bag.txt
