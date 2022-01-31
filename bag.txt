@@ -1,7 +1,0 @@
-Bug_id: 1.
-Title:
-Environtment:
-Precondition:
-STR:
-AR:
-Attachments:
